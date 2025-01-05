@@ -1,2 +1,2 @@
 # Single-Page-CV
-hand-on html
+https://roadmap.sh/projects/single-page-cv
